@@ -1,0 +1,8 @@
+{
+  "name": "rn-custom-template",
+  "version": "1.0.0",
+  "description": "React Native Custom Template",
+  "repository": "https://github.com/w4ugit/rn-custom-template.git",
+  "author": "@taruk <admin@web4u.in.ua>",
+  "license": "MIT"
+}
